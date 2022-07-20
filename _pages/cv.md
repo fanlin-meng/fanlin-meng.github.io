@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* August 2022- : Lecturer in Data Science, Alliance Manchester Business School, University of Manchester
-* January 2019- July 2022: Lecturer in Data Science, Department of Mathematical Sciences, University of Essex
-* November 2021- October 2025: External Examiner, Leeds University Business School, University of Leeds
+* 2022- : Lecturer in Data Science, Alliance Manchester Business School, University of Manchester
+* 2019- 2022: Lecturer in Data Science, Department of Mathematical Sciences, University of Essex
+* 2021- 2025: External Examiner (BSc Business Management), Leeds University Business School, University of Leeds
 
 
   
