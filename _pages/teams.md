@@ -1,13 +1,21 @@
 ---
 permalink: /teams/
-title: "Research Team"
+#title: "Research Team"
 author_profile: true
 #redirect_from: 
 #  - /md/
 #  - /markdown.html
 ---
 
-## PhD students
+{% include base_path %}
+
+Research Team
+===
+
+
+PhD students
+---
+
 
 
 | Name             | Year     | Project                                                                                |
@@ -16,7 +24,8 @@ author_profile: true
 | [Qiuyi Hong](https://www.essex.ac.uk/people/hongq09204/qiuyi-hong)   | 2020-     | Transactive Energy Framework with Renewable Energy and Demand Response Integration | 
 
 
-## RAs
+RAs
+---
 
 
 | Name             | Year   | Project                                                                                |
