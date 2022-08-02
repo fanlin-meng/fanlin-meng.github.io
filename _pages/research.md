@@ -17,9 +17,9 @@ Research Interests
 *  Operational research and optimisation
 *  Game theory and decision-making 
 *  Applications include:
-  * Energy Data Analytics
-  * Energy Market with Demand Response and Renewable Energy Integration 
-  * Smart Energy and Mobility
+  ** Energy Data Analytics
+  ** Energy Market with Demand Response and Renewable Energy Integration 
+  ** Smart Energy and Mobility
 
 
 Research Projects 
@@ -33,6 +33,6 @@ I have worked on several research projects supported by internal and external fu
 
 * Smart/Digital Buildings and Building Energy Management (ERDF funded project “Visual Building Fire Protection System” as PI, European Commission Horizon 2020 funded projects “TABEDE: TowArds Building rEady for Demand rEsponse” and “DRiVE: Demand Response Integration tEchnologies: unlocking the demand response potential in the distribution grid”)
 
-* Autonomous Driving (EPSRC funded project “Towards More Autonomy for Unmanned Vehicles: Situational Awareness and Decision Making under Uncertainty”)
+* Smart Mobility (EPSRC funded project “Towards More Autonomy for Unmanned Vehicles: Situational Awareness and Decision Making under Uncertainty”)
 
-* AI for Healthcare (“Non-intrusive residential energy monitoring for dementia” funded by ESRC IAA via University of Essex as PI and EPSRC funded project “SAMS - Software Architecture for Mental health Self management”).
+* AI for Healthcare (“Non-intrusive residential energy monitoring for dementia” funded by ESRC IAA via University of Essex as PI).
