@@ -13,13 +13,13 @@ author_profile: true
 Research Interests 
 ======
 
-*  Data science
-*  Operational research and optimisation
-*  Game theory and decision-making 
-*  Applications include:
-  ** Energy Data Analytics
-  ** Energy Market with Demand Response and Renewable Energy Integration 
-  ** Smart Energy and Mobility
+* Data science
+* Operational research and optimisation
+* Game theory and decision-making 
+* Applications include:
+  * Energy Data Analytics
+  * Energy Market with Demand Response and Renewable Energy Integration 
+  * Smart Energy and Mobility
 
 
 Research Projects 
