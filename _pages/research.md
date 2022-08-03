@@ -10,10 +10,10 @@ author_profile: true
 
 {% include base_path %}
 
-Research Interests 
+Research Interests  
 ======
 
-* Data science
+* Data science 
 * Operational research and optimisation
 * Game theory and decision-making 
 * Applications include:
@@ -35,4 +35,4 @@ I have worked on several research projects supported by internal and external fu
 
 * Smart Mobility (EPSRC funded project “Towards More Autonomy for Unmanned Vehicles: Situational Awareness and Decision Making under Uncertainty”)
 
-* AI for Healthcare (“Non-intrusive residential energy monitoring for dementia” funded by ESRC IAA via University of Essex as PI).
+* AI for Healthcare (“Non-intrusive residential energy monitoring for dementia” funded by ESRC IAA via University of Essex as PI). 
