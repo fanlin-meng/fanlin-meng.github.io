@@ -17,4 +17,6 @@ His primary research interests include Energy Data Analytics, Energy Market with
 Recent News
 ===
 
+* Our paper "Addressing modern and practical challenges in machine learning: A survey of online federated and transfer learning" has been accepted by [Applied Intelligence](https://www.springer.com/journal/10489). Well done Shuang! 
+* I am invited to speak at [IEEE ISGT Europe 2022](https://ieee-isgt-europe.org/) on smart meter data analytics in the Super Session "AI for Active Power Distribution". 
 * I am joining Alliance Manchester Business School, University of Manchester as Lecturer in Data Science from August 2022! 
