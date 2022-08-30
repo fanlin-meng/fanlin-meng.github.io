@@ -16,7 +16,7 @@ His primary research interests include Energy Data Analytics, Energy Market with
 
 Recent News
 ===
-
+* [2022.08] I join the Editorial Board of [Complex & Intelligent Systems](https://www.springer.com/journal/40747/). 
 * Our paper "Customized Multi-energy Pricing in Smart Grids: A Bilevel and Evolutionary Computation Approach" has been accepted for presentation at [The 21st UK Workshop on Computational Intelligence](https://www.sheffield.ac.uk/ukci2022). Well done Qiuyi! 
 * Our paper "Online Model-based Functional Clustering and Functional Deep Learning for Load Forecasting Using Smart Meter Data" has been accepted for presentation at [5th International Conference on Smart Energy Systems and Technologies](https://www.sest2022.org/). Well done Shuang! 
 * Our paper "Addressing modern and practical challenges in machine learning: A survey of online federated and transfer learning" has been accepted by [Applied Intelligence](https://www.springer.com/journal/10489). Well done Shuang! 
