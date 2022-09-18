@@ -18,6 +18,8 @@ His primary research interests include Energy Data Analytics, Energy Market with
 
 Recent News
 ===
+
+* [2022.09] I became Associate Editor of [Journal of Intelligent & Fuzzy Systems](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems). 
 * [2022.09] Our paper "A Benchmark for Multi-Class Object Counting and Size Estimation Using Deep Convolutional Neural Networks" has been accepted by [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence). Joint work with Zixu (Southampton) and Qian (Durham). 
 * [2022.08] I joined the Editorial Board of [Complex & Intelligent Systems](https://www.springer.com/journal/40747/). 
 * Our paper "Customized Multi-energy Pricing in Smart Grids: A Bilevel and Evolutionary Computation Approach" has been accepted for presentation at [The 21st UK Workshop on Computational Intelligence](https://www.sheffield.ac.uk/ukci2022). Well done Qiuyi! 
