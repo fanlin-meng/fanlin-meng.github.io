@@ -18,7 +18,8 @@ His primary research interests include Energy Data Analytics, Energy Market with
 
 Recent News
 ===
-* [2022.11] Our paper "A Bilevel Game-Theoretic Decision-Making Framework for Strategic Retailers in Both Local and Wholesale Electricity Markets" has been accepted by Applied Energy. Well done Qiuyi! 
+* [2022.11] I have been invited to give a talk on "Strategic modelling of electricity retailers in wholesale and local markets" in the Department of Engineering, Durham University
+* [2022.11] Our paper [A bilevel game-theoretic decision-making framework for strategic retailers in both local and wholesale electricity markets](https://www.sciencedirect.com/science/article/pii/S0306261922015689) has been accepted by Applied Energy. Well done Qiuyi! 
 * [2022.09] I became Associate Editor of [Journal of Intelligent & Fuzzy Systems](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems). 
 * [2022.09] Our paper [A benchmark for multi-class object counting and size estimation using deep convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0952197622004390) has been accepted by Engineering Applications of Artificial Intelligence. Joint work with Zixu (Southampton) and Qian (Durham). 
 * [2022.08] I joined the Editorial Board of [Complex & Intelligent Systems](https://www.springer.com/journal/40747/). 
