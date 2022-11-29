@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Dr Fanlin Meng](https://www.research.manchester.ac.uk/portal/fanlin.meng.html) is a Lecturer in Data Science at the University of Manchester. He was Lecturer in Data Science with University of Essex and Institute for Analytics and Data Science between 2019 and 2022. He previously held several research positions in Cardiff (Engineering), Edinburgh (Mathematics), Durham (ECS) and Loughborough (AAE). He received his PhD in Computer Science from the University of Manchester in 2015. 
+Dr Fanlin Meng is a Lecturer in Data Science at the University of Manchester. He was Lecturer in Data Science with University of Essex and Institute for Analytics and Data Science between 2019 and 2022. He previously held several research positions in Cardiff (Engineering), Edinburgh (Mathematics), Durham (ECS) and Loughborough (AAE). He received his PhD in Computer Science from the University of Manchester in 2015. 
 
 His primary research interests include Energy Data Analytics, Energy Market with Demand Response and Renewable Energy Integration, Smart Energy and Mobility,  Machine Learning, Game Theory and Optimisation. He is Fellow of British Computer Society (FBCS), member of EPSRC Peer Review College, and Senior Member of IEEE. 
 
@@ -18,7 +18,7 @@ His primary research interests include Energy Data Analytics, Energy Market with
 
 Recent News
 ===
-* [2022.11] I have been invited to give a talk on "Strategic modelling of electricity retailers in wholesale and local markets" in the Department of Engineering, Durham University
+* [2022.11] I was invited to give a talk on "Strategic modelling of electricity retailers in wholesale and local markets" in the Department of Engineering, Durham University
 * [2022.11] Our paper [A bilevel game-theoretic decision-making framework for strategic retailers in both local and wholesale electricity markets](https://www.sciencedirect.com/science/article/pii/S0306261922015689) has been accepted by Applied Energy. Well done Qiuyi! 
 * [2022.09] I became Associate Editor of [Journal of Intelligent & Fuzzy Systems](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems). 
 * [2022.09] Our paper [A benchmark for multi-class object counting and size estimation using deep convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0952197622004390) has been accepted by Engineering Applications of Artificial Intelligence. Joint work with Zixu (Southampton) and Qian (Durham). 
