@@ -18,6 +18,7 @@ His primary research interests include Energy Data Analytics, Energy Market with
 
 Recent News
 ===
+* [2023.01] Our recent work [Multiple dynamic pricing for demand response with adaptive clustering-based customer segmentation in smart grids](https://www.sciencedirect.com/science/article/abs/pii/S0306261922018839) has been published in Applied Energy!
 * [2022.12] Call for papers: [Special Session on Computational Intelligence in Transactive Energy Management and Smart Energy Network (Citesen 2023)](https://sites.google.com/view/ijcnn-citesen-2023) with IJCNN2023, Queensland, Australia, June 18-23, 2023. Submission deadline: January 31, 2023. 
 * [2022.11] I was invited to give a talk on "Strategic modelling of electricity retailers in wholesale and local markets" in the Department of Engineering, Durham University
 * [2022.11] Our paper [A bilevel game-theoretic decision-making framework for strategic retailers in both local and wholesale electricity markets](https://www.sciencedirect.com/science/article/pii/S0306261922015689) has been accepted by Applied Energy. Well done Qiuyi! 
