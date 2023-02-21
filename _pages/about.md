@@ -20,7 +20,7 @@ Recent News
 ===
 * [2023.02] Our recent work "Learn to rotate: Part orientation for reducing support volume via generalizable reinforcement learning" has been accepted for publication in IEEE Transactions on Industrial Informatics! Joint work with colleagues at EPSRC Future Advanced Metrology Hub in the University of Huddersfield. 
 * [2023.02] Call for papers: [Special Issue: Artificial Intelligence (AI) for Smart Energy and Mobility](https://www.mdpi.com/journal/energies/special_issues/23X4D4V1O9) with Energies. Submission deadline: 14 December 2023. 
-* [2023.02] Our invited paper [Customised Multi-Energy Pricing: Model and Solutions](https://www.mdpi.com/1996-1073/16/4/2080) has been accepted for publication in Energies! Well done Qiuyi! 
+* [2023.02] Our invited paper [Customised Multi-Energy Pricing: Model and Solutions](https://www.mdpi.com/1996-1073/16/4/2080) has been published in Energies! Well done Qiuyi! 
 * [2023.02] Our work [Process Knowledge-guided Autonomous Evolutionary Optimization for Constrained Multi-objective Problems](https://ieeexplore.ieee.org/abstract/document/10040230) has been accepted for publication in IEEE Transactions on Evolutionary Computation! 
 * [2023.02] Our work [Data Augmentation with norm-AE and Selective Pseudo-Labelling for Unsupervised Domain Adaptation](https://www.sciencedirect.com/science/article/pii/S0893608023000692) has been accepted for publication in Neural Networks!
 * [2023.01] Our recent work [Multiple dynamic pricing for demand response with adaptive clustering-based customer segmentation in smart grids](https://www.sciencedirect.com/science/article/abs/pii/S0306261922018839) has been published in Applied Energy!
