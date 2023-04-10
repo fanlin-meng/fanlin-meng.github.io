@@ -18,6 +18,7 @@ His primary research interests include Energy Data Analytics, Energy Market with
 
 Recent News
 ===
+* [2023.04] Two papers have been accepted for presentation at [IJCNN 2023](https://2023.ijcnn.org/). 
 * [2023.02] Congratulations to Shuang for successfully defending her PhD thesis! She will join University of Exeter as a postdoctoral researcher. 
 * [2023.02] Our recent work [Learn to rotate: Part orientation for reducing support volume via generalizable reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10054468) has been accepted for publication in IEEE Transactions on Industrial Informatics! Joint work with colleagues at EPSRC Future Advanced Metrology Hub in the University of Huddersfield.
 * [2023.02] Call for papers: [Special Issue: Artificial Intelligence (AI) for Smart Energy and Mobility](https://www.mdpi.com/journal/energies/special_issues/23X4D4V1O9) with Energies. Submission deadline: 14 December 2023. 
