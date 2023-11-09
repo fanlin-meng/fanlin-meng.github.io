@@ -18,6 +18,8 @@ His primary research interests include Energy Data Analytics, Energy Market with
 
 Recent News
 ===
+* [2023.11] Our developed distributed and privacy-preserving framework to non-intrusive load monitoring has been published as a research article in [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews).
+* [2023.10] Our recent research investigating the dynamic relationships of building indoor thermal profiles, building physcial information, and external weather conditions has been published in [Sustainability](https://www.mdpi.com/2071-1050/15/21/15489). 
 * [2023.06] Two papers have been accepted by [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/abstract/document/10124463) and [Renewable and Sustainable Energy Reviews](https://arxiv.org/abs/2305.15071).
 * [2023.04] Two papers have been accepted for presentation at [IJCNN 2023](https://2023.ijcnn.org/). 
 * [2023.02] Congratulations to Shuang for successfully defending her PhD thesis! She will join University of Exeter as a postdoctoral researcher. 
