@@ -18,6 +18,8 @@ His primary research interests include Energy Data Analytics, Energy Market with
 
 Recent News
 ===
+
+* [2023.12] Call for papers: [Special Session on Computational Intelligence in Transactive Energy Management and Smart Energy Network (CITESEN 2024)](https://sites.google.com/view/wcci-citesen2024/home) within WCCI/IJCNN 2024 to be held in Yokohama, Japan, June 30 - July 5, 2024. 
 * [2023.11] Our developed distributed and privacy-preserving framework to non-intrusive load monitoring has been published as a research article in [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews).
 * [2023.10] Our recent research investigating the dynamic relationships of building indoor thermal profiles, building physcial information, and external weather conditions has been published in [Sustainability](https://www.mdpi.com/2071-1050/15/21/15489). 
 * [2023.06] Two papers have been accepted by [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/abstract/document/10124463) and [Renewable and Sustainable Energy Reviews](https://arxiv.org/abs/2305.15071).
