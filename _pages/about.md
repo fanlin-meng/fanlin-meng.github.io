@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Dr Fanlin Meng is a Lecturer in Data Science at the University of Manchester where he received his PhD in Computer Science from the University of Manchester in 2015. 
+I am currently a Lecturer in Data Science at the University of Manchester. I received my PhD in Computer Science (machine learning and optimisation) from the same university in 2015. 
 
-His primary research interests include Energy Data Analytics, Energy Market with Demand Response and Renewable Energy Integration, Smart Energy and Mobility,  Machine Learning, Game Theory and Optimisation. He is Fellow of British Computer Society (FBCS), member of EPSRC Peer Review College, and Senior Member of IEEE. 
+My primary research interests include Energy Market, Carbon Market, Smart Energy and Mobility,  Machine Learning, Game Theory and Optimisation. I am a Fellow of British Computer Society (FBCS), member of EPSRC Peer Review College, and Senior Member of IEEE. 
 
-**Message to Potential PhD students** I welcome enquiries from potential applicants sharing similar research interests to mine, with strong academic background in Operational Research, Optimisation, Management Science, Computer Science, Data Science, Automatic Control/ Electronic/ Electrical Engineering, etc. If you are interested in pursuing your PhD under my supervision, please send me your academic CV via email.  
+**Message to Potential PhD students** I welcome enquiries from potential applicants sharing similar research interests to mine, with strong academic background in Operational Research, Optimisation, Management Science, Economics, Computer Science, Data Science, Automatic Control/ Electronic/ Electrical Engineering, etc. If you are interested in pursuing your PhD under my supervision, please send me your academic CV via email.  
 
 ---
 
