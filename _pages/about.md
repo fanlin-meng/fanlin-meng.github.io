@@ -18,9 +18,9 @@ My primary research interests include Energy Market, Carbon Market, Smart Energy
 
 Recent News
 ===
-* [2024.05] Funded by UKRI IAA Strategic Partnership Fund and Manchester Airports Group (MAG) to work on an airport AI-driven digital framework, as PI.  
+* [2024.05] Funded by UKRI IAA Strategic Partnership Fund and [Manchester Airports Group (MAG)](https://www.magairports.com/) to work on an airport AI-driven digital framework, as PI.  
 * [2024.04] I will join University of Exeter Business School (Department of Management) in the summer! 
-* [2024.04] Our recent collaborative work (with Oracle and Baylor University) on novel evolutionary computational apprach to wind optimal power flow problem has been accepted by Applied Soft Computing. 
+* [2024.04] Our recent collaborative work (with Oracle and Baylor University) on novel evolutionary computational apprach to wind optimal power flow problem has been accepted by [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494624004368). 
 * [2024.03] Our recent work on open-set domain adaptation has been published in [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/abstract/document/10478452).
 * [2023.12] Call for papers: [Special Session on Computational Intelligence in Transactive Energy Management and Smart Energy Network (CITESEN 2024)](https://sites.google.com/view/wcci-citesen2024/home) within WCCI/IJCNN 2024 to be held in Yokohama, Japan, June 30 - July 5, 2024. 
 * [2023.11] Our developed distributed and privacy-preserving framework to non-intrusive load monitoring has been published as a research article in [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews).
