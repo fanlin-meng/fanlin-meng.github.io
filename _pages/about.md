@@ -14,7 +14,7 @@ My primary research interests include Energy Market, Carbon Market, Smart Energy
 
 **Message to Potential PhD students** I welcome enquiries from potential applicants sharing similar research interests to mine, with strong academic background in Operational Research, Optimisation, Management Science, Economics, Computer Science, Data Science, Automatic Control/ Electronic/ Electrical Engineering, etc. If you are interested in pursuing your PhD under my supervision, please send me your academic CV via email.
 
-Please go to [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/) for information on PhD programs and funding opportunties (including MRes + PhD Scholarships 硕博连读奖学金, and [CSC scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)) offered by [University of Exeter Business School](https://business-school.exeter.ac.uk/). I also welcome visiting PhD students and visiting scholars where information on the admission can be found from the above page. 
+Check [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/) for information on PhD programs and funding opportunties (including MRes + PhD Scholarships 硕博连读奖学金, and [CSC scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)) offered by [University of Exeter Business School](https://business-school.exeter.ac.uk/). I also welcome visiting PhD students and visiting scholars where information on the admission can be found from the above page. 
 
 ---
 
