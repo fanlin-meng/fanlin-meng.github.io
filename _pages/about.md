@@ -12,7 +12,9 @@ I am currently a Lecturer in Data Science at the University of Manchester. I rec
 
 My primary research interests include Energy Market, Carbon Market, Smart Energy and Mobility,  Machine Learning, Game Theory and Optimisation. I am a Fellow of British Computer Society (FBCS), member of EPSRC Peer Review College, and Senior Member of IEEE. 
 
-**Message to Potential PhD students** I welcome enquiries from potential applicants sharing similar research interests to mine, with strong academic background in Operational Research, Optimisation, Management Science, Economics, Computer Science, Data Science, Automatic Control/ Electronic/ Electrical Engineering, etc. If you are interested in pursuing your PhD under my supervision, please send me your academic CV via email.  
+**Message to Potential PhD students** I welcome enquiries from potential applicants sharing similar research interests to mine, with strong academic background in Operational Research, Optimisation, Management Science, Economics, Computer Science, Data Science, Automatic Control/ Electronic/ Electrical Engineering, etc. If you are interested in pursuing your PhD under my supervision, please send me your academic CV via email.
+
+Please go to [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/) for information on PhD programs and funding opportunties (including MRes + PhD Scholarships 硕博连读奖学金, and [CSC scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)) offered by University of Exeter Business School. I also welcome visiting PhD students and visiting scholar where information on the admission can be found from the above page. 
 
 ---
 
