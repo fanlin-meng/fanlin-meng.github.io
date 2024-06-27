@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer in Data Science at the University of Manchester. I received my PhD in Computer Science (machine learning and optimisation) from the same university in 2015. 
+I am a Senior Lecturer at the University of Exeter Business School. Previously I held academic positions at the University of Manchester and University of Essex. I received my PhD in Computer Science (machine learning and optimisation) from University of Manchester in 2015. 
 
 My primary research interests include Energy Market, Carbon Market, Smart Energy and Mobility,  Machine Learning, Game Theory and Optimisation. I am a Fellow of British Computer Society (FBCS), member of EPSRC Peer Review College, and Senior Member of IEEE. 
 
