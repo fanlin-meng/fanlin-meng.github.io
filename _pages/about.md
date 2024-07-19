@@ -21,7 +21,7 @@ Check [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/)
 Recent News
 ===
 * [2024.07] I joined the University of Exeter Business School as a Senior Lecturer in Operations and Analytics! 
-* [2024.06] Many congratulations to Qiuyi for passing his PhD viva with flying colors! 
+* [2024.06] Many congratulations to Qiuyi for passing his PhD viva with flying colors! He will join Newcastle University as a postdoctoral researcher. 
 * [2024.05] Funded by UKRI IAA Strategic Partnership Fund and [Manchester Airports Group (MAG)](https://www.magairports.com/) to work on an AI-driven airport digital framework, as PI.  
 * [2024.04] Our recent collaborative work (with Oracle and Baylor University) on novel evolutionary computational apprach to wind optimal power flow problem has been accepted by [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494624004368). 
 * [2024.03] Our recent work on open-set domain adaptation has been published in [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/abstract/document/10478452).
