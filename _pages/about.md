@@ -20,7 +20,8 @@ Check [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/)
 
 Recent News
 ===
-* [2024.09] We have an EPSRC DTP PhD studentship opportunity on Digital Twin for Electricity and Carbon Markets at University of Exeter Business School (Management): [Project description](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Digital_Twin_for_Electricity_and_Carbon_Markets_(Dr_Fanlin_Meng).pdf) | [Application link](https://www.exeter.ac.uk/study/funding/award/?id=5228). Application deadline: October 04, 2024.  
+
+* [2024.09] We have an EPSRC DTP PhD studentship opportunity on Digital Twin for Electricity and Carbon Markets at University of Exeter Business School (Management): [Project description](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Digital_Twin_for_Electricity_and_Carbon_Markets_(Dr_Fanlin_Meng).pdf), [Application link](https://www.exeter.ac.uk/study/funding/award/?id=5228). Application deadline: October 04, 2024.  
 * [2024.07] I joined the University of Exeter Business School as a Senior Lecturer in Operations and Analytics! 
 * [2024.06] Many congratulations to Qiuyi for passing his PhD viva with flying colors! He will join Newcastle University as a postdoctoral researcher. 
 * [2024.05] Funded by UKRI IAA Strategic Partnership Fund and [Manchester Airports Group (MAG)](https://www.magairports.com/) to work on an AI-driven airport digital framework, as PI.  
