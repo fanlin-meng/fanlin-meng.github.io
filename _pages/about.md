@@ -22,6 +22,9 @@ Check [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/)
 
 Recent News
 ===
+
+* [2025.03] I am happy to serve as the Area Chair for 2025 International Joint Conference on Neural Networks ([IJCNN 2025](https://2025.ijcnn.org/)). 
+* [2025.02] I was  invited to review proposals for the recently launched [AI Safety Institute's](https://www.aisi.gov.uk/) Systemic AI Safety Grants Programme (delivered in partnership with UKRI). It is great to involve and contribute to the AI safety research community.  
 * [2024.12] Call for papers: [Special Session on Computational Intelligence in Transactive Energy Management and Smart Energy Network (CITESEN 2025)](https://sites.google.com/view/citesen2025) within 2025 International Joint Conference on Neural Networks ([IJCNN 2025](https://2025.ijcnn.org/)), to be held in Rome, Italy, June 30 - July 5, 2025. Submission deadline: January 15, 2025.   
 * [2024.10] I have PhD opportunities funded through China Scholarship Council and University of Exeter PhD Scholarships (中国国家留学基金委和英国埃克塞特大学合作奖学金). Two projects are advertised at the [University website (under "University of Exeter Business School")](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/environment/). More information about the opportunities and how to apply are [here](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/).  
 * [2024.09] I became Associate Editor of [e-Prime - Advances in Electrical Engineering, Electronics and Energy](https://www.sciencedirect.com/journal/e-prime-advances-in-electrical-engineering-electronics-and-energy).
