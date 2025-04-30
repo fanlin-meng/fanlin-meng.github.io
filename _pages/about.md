@@ -23,6 +23,7 @@ Check [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/)
 Recent News
 ===
 
+* [2025.04] Our recent work titled "Statistical disaggregation—a Monte Carlo approach for imputation under constraints" has been accepted by Scandinavian Journal of Statistics. One promising application of the proposed method lies in the area of energy disaggregation, which is crucial for demand management and energy transition.  
 * [2025.03] I am happy to serve as the Area Chair for 2025 International Joint Conference on Neural Networks ([IJCNN 2025](https://2025.ijcnn.org/)). 
 * [2025.02] I was  invited to review proposals for the recently launched [AI Safety Institute's](https://www.aisi.gov.uk/) Systemic AI Safety Grants Programme (delivered in partnership with UKRI). It is great to involve and contribute to the AI safety research community.  
 * [2024.12] Call for papers: [Special Session on Computational Intelligence in Transactive Energy Management and Smart Energy Network (CITESEN 2025)](https://sites.google.com/view/citesen2025) within 2025 International Joint Conference on Neural Networks ([IJCNN 2025](https://2025.ijcnn.org/)), to be held in Rome, Italy, June 30 - July 5, 2025. Submission deadline: January 15, 2025.   
