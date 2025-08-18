@@ -22,6 +22,7 @@ Check [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/)
 
 Recent News
 ===
+* [2025.08] Jiaci Wang will join the team as a new PhD student from September, researching  AI and game theory in transportation, funded by the China Scholarship Council and University of Exeter PhD Scholarships.  Welcome Jiaci!  
 * [2025.06] I have been invited to give a research talk on Modelling in Electricity Market and Carbon Market: An Operations Analytics Perspective at the Department of Management Science and Engineering, School of Economics and Management, Tsinghua University. 
 * [2025.04] Our recent work titled [Statistical disaggregation—a Monte Carlo approach for imputation under constraints](https://onlinelibrary.wiley.com/doi/full/10.1111/sjos.12790) has been accepted by Scandinavian Journal of Statistics. One promising application of the proposed method lies in the area of energy disaggregation, which is crucial for demand management and energy transition.  
 * [2025.03] I am happy to serve as the Area Chair for 2025 International Joint Conference on Neural Networks ([IJCNN 2025](https://2025.ijcnn.org/)). 
