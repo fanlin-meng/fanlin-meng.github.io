@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Senior Lecturer at the University of Exeter Business School](https://experts.exeter.ac.uk/42785-fanlin-meng/). Previously I held academic and research positions in several institutions including  University of Essex, University of Manchester and University of Edinburgh. I received my PhD in Computer Science (machine learning and optimisation) from University of Manchester in 2015. 
+I am a [Senior Lecturer in Operations and Analytics at the University of Exeter Business School](https://experts.exeter.ac.uk/42785-fanlin-meng/). Prior to joining the University of Exeter, I was a Lecturer in Data Science (Alliance Manchester Business School) at the University of Manchester where I received my PhD in Computer Science (machine learning and optimisation) in 2015.
 
-My primary research interests include Energy Market, Carbon Market, Smart Energy and Mobility,  Machine Learning, Game Theory and Optimisation. I am a Fellow of British Computer Society (FBCS), member of EPSRC Peer Review College, and Senior Member of IEEE. 
+My primary research interests include Electricity Market, Carbon Market, Smart Energy and Mobility,  Machine Learning, Game Theory and Optimisation. I am a Fellow of British Computer Society (FBCS), member of EPSRC Peer Review College, and Senior Member of IEEE. 
 
-**Message to Potential PhD students** I welcome enquiries from potential applicants sharing similar research interests to mine, with strong academic background in Operational Research, Optimisation, Management Science, Economics, Computer Science, Data Science, Automatic Control/ Electronic/ Electrical Engineering, etc. If you are interested in pursuing your PhD under my supervision, please send me your academic CV via email.
+**Message to Potential PhD students** I welcome enquiries from potential applicants sharing similar research interests to mine, with strong academic background in Operational Research, Management Science, Economics, Computer Science, Data Science, etc. 
 
-Check [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/) for information on PhD programs and funding opportunities (including MRes + PhD Scholarships 硕博连读奖学金, and [CSC scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)) offered by [University of Exeter Business School](https://business-school.exeter.ac.uk/). I also welcome visiting PhD students and visiting scholars where information on the admission can be found from the above page. 
+Check [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/) for information on PhD programs and funding opportunities (including MRes + PhD Scholarships 硕博连读奖学金, and [CSC scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)) offered by [University of Exeter Business School](https://business-school.exeter.ac.uk/). 
+
+I also welcome self-funded PhD students, visiting PhD students and scholars. 
+
 
 
 
@@ -22,6 +25,7 @@ Check [this doctoral page](https://business-school.exeter.ac.uk/study/doctoral/)
 
 Recent News
 ===
+* [2026.02] I am happy to serve as the Area Chair for 2026 IEEE World Congress on Computational Intelligence ([WCCI 2026](https://attend.ieee.org/wcci-2026/)). 
 * [2025.11] Our special session on Computational Intelligence in Transactive Energy Management and Smart Energy Network (CITESEN) has been accepted with WCCI 2026. Check [here](https://sites.google.com/view/wcci-citesen-2026/home) for more information on the special session and how to make your submissions. 
 * [2025.11] Our review paper on peak demand forecasting has been accepted by Renewable and Sustainable Energy Reviews. 
 * [2025.10] Happy to give a seminar on our recent research on energy and carbon markets to the Centre for Decision Research at the University of Leeds Business School.  
