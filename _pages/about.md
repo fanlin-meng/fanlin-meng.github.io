@@ -26,6 +26,9 @@ I also welcome self-funded PhD students, visiting PhD students and scholars.
 
 Recent News
 ===
+* [2026.05] Our recent work [Multiscale and Real-Time Load Forecasting: A Universal Online Functional Data Analysis Framework](https://ieeexplore.ieee.org/abstract/document/11520660) has been published in IEEE Transactions on Engineering Management.  
+* [2026.05] Our survey paper [Machine learning in feature recognition for manufacturing: taxonomy, analytical review, comparisons, trends, challenges, and outlook](https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2675460) has been published in International Journal of Production Research.  
+* [2026.04] Our recent work [An interpretable machine learning approach for forecasting the occurrence of extreme electricity prices in the day-ahead market](https://www.tandfonline.com/doi/full/10.1080/01605682.2026.2660989) has been published in the Journal of the Operational Research Society! Well done Jingchuan!   
 * [2026.02] I am happy to serve as the Area Chair for 2026 IEEE World Congress on Computational Intelligence ([WCCI 2026](https://attend.ieee.org/wcci-2026/)). 
 * [2025.11] Our special session on Computational Intelligence in Transactive Energy Management and Smart Energy Network (CITESEN) has been accepted with WCCI 2026. Check [here](https://sites.google.com/view/wcci-citesen-2026/home) for more information on the special session and how to make your submissions. 
 * [2025.11] Our review paper on peak demand forecasting has been accepted by Renewable and Sustainable Energy Reviews. 
