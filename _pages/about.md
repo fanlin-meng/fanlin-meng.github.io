@@ -26,6 +26,7 @@ I also welcome self-funded PhD students, visiting PhD students and scholars.
 
 Recent News
 ===
+* [2026.06] Our recent work on [carbon emission trading system optimization](https://www.tandfonline.com/doi/full/10.1080/01605682.2026.2687705) has been accepted by Journal of the Operational Research Society! Well done Xiaoyi!  
 * [2026.05] Our recent work [Multiscale and Real-Time Load Forecasting: A Universal Online Functional Data Analysis Framework](https://ieeexplore.ieee.org/abstract/document/11520660) has been published in IEEE Transactions on Engineering Management.  
 * [2026.05] Our survey paper [Machine learning in feature recognition for manufacturing: taxonomy, analytical review, comparisons, trends, challenges, and outlook](https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2675460) has been published in International Journal of Production Research.  
 * [2026.04] Our recent work [An interpretable machine learning approach for forecasting the occurrence of extreme electricity prices in the day-ahead market](https://www.tandfonline.com/doi/full/10.1080/01605682.2026.2660989) has been published in the Journal of the Operational Research Society! Well done Jingchuan!  
