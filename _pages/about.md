@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Senior Lecturer in Operations and Analytics at the University of Exeter Business School](https://experts.exeter.ac.uk/42785-fanlin-meng/). Prior to joining the University of Exeter, I was a Lecturer in Data Science (Alliance Manchester Business School) at the University of Manchester where I received my PhD in Computer Science (machine learning and optimisation) in 2015.
+I am a [Senior Lecturer in Operations and Analytics at the University of Exeter Business School](https://experts.exeter.ac.uk/42785-fanlin-meng/). Prior to joining the University of Exeter, I was a Lecturer in Data Science at the University of Manchester (Alliance Manchester Business School), and University of Essex (Mathematical Sciences department). I received my PhD in Computer Science (machine learning and optimisation) from University of Manchester in 2015.
 
 My primary research interests include Electricity Market, Carbon Market, Smart Energy and Mobility,  Machine Learning, Game Theory and Optimisation. I am a Fellow of British Computer Society (FBCS), member of EPSRC Peer Review College, and Senior Member of IEEE. 
 
