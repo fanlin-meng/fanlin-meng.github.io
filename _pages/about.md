@@ -26,6 +26,7 @@ I also welcome self-funded PhD students, visiting PhD students and scholars.
 
 Recent News
 ===
+* [2026.08] I am happy to give a keynote talk titled "AI and Game-Theoretic Modelling for Low-Carbon Energy Markets" at 2026 the 10th International Conference on Cloud and Big Data Computing (ICCBDC 2026), University of Cambridge, Cambridge, UK.
 * [2026.08] Our recent work on [learning-assisted evolutionary optimization for integrated energy systems](https://ieeexplore.ieee.org/abstract/document/11655231) has been published in the IEEE Transactions on Evolutionary Computation!
 * [2026.06] Our recent work on [carbon emission trading system optimization](https://www.tandfonline.com/doi/full/10.1080/01605682.2026.2687705) has been accepted by Journal of the Operational Research Society! Well done Xiaoyi!  
 * [2026.05] Our recent work [Multiscale and Real-Time Load Forecasting: A Universal Online Functional Data Analysis Framework](https://ieeexplore.ieee.org/abstract/document/11520660) has been published in IEEE Transactions on Engineering Management.  
