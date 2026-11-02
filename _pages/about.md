@@ -26,7 +26,7 @@ I also welcome self-funded PhD students, visiting PhD students and scholars.
 
 Recent News
 ===
-* [2026.10] I am looking for funded and self-funded PhD projects to join my group in the area of management science and data analytics. Potential PhD projects include: 1. Energy and carbon cross-market learning and modelling; 2. Energy flexibility and incentive design; 3. Human-AI modelling and learning (with applications in energy and transport such as mixed autonomy). Get in touch if you are interested! 
+* [2026.10] I am looking for funded and self-funded PhD projects to join my group in the area of management science, operational research, and data analytics. Potential PhD projects include: 1. Energy and carbon cross-market learning and modelling; 2. Energy flexibility and incentive design; 3. Human-AI modelling and learning (with applications in energy and transport such as mixed autonomy). Get in touch if you are interested! 
 * [2026.08] I am happy to give a keynote talk titled "AI and Game-Theoretic Modelling for Low-Carbon Energy Markets" at 2026 the 10th International Conference on Cloud and Big Data Computing (ICCBDC 2026), University of Cambridge, Cambridge, UK.
 * [2026.08] Our recent work on [learning-assisted evolutionary optimization for integrated energy systems](https://ieeexplore.ieee.org/abstract/document/11655231) has been published in the IEEE Transactions on Evolutionary Computation!
 * [2026.06] Our recent work on [carbon emission trading system optimization](https://www.tandfonline.com/doi/full/10.1080/01605682.2026.2687705) has been accepted by Journal of the Operational Research Society! Well done Xiaoyi!  
